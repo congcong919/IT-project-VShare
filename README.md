@@ -18,4 +18,6 @@ Heroku<br>
 Express.js<br>
 JavaScript<br>
 MongoDB database for data storage<br>
-Mongoose used to create a connection between MongoDB and the Node.js<br>
+Mongoose used to create a connection between MongoDB and the Node.js<br><br>
+
+Original github repository is at
