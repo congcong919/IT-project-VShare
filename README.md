@@ -20,4 +20,4 @@ JavaScript<br>
 MongoDB database for data storage<br>
 Mongoose used to create a connection between MongoDB and the Node.js<br><br>
 
-Original github repository is at
+Original github repository is at https://github.com/Kisupan/IT-PROJECT
