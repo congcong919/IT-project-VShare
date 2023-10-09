@@ -1,5 +1,5 @@
 # IT-project-VShare
-This is a capstone group IT project for developing a website for video sharing (VShare). I am one of the members in five and act as an front end developer and is mainly responsible for website page UI design, front end coding, API testing and project documentation.<br><br>
+This is a capstone group IT project for developing a website for video sharing (VShare). I am one of the members in five and act as an front end developer and is mainly responsible for website page UI design, front end coding, API testing and project documentation.<br>
 
 **Front end and UI design**<br>
 Canva<br>
