@@ -21,4 +21,4 @@ MongoDB database for data storage<br>
 Mongoose used to create a connection between MongoDB and the Node.js<br><br>
 
 Original github repository is at https://github.com/Kisupan/IT-PROJECT<br>
-Product description and how to run app please see the product document
+Product description and how to run app please see the product document https://github.com/congcong919/IT-project-VShare/blob/main/DOCUMENTAT-Product%20Report-101023-173249.pdf
